@@ -2,7 +2,7 @@
 #include "Game.h"
 using namespace sf;
 
-// constructor
+// Constructor
 Game::Game() {
 	// get screen resolution and store
 	Vector2f resolution;
